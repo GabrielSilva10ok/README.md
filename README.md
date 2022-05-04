@@ -17,6 +17,6 @@
 <div>
   
  <a href="https://www.instagram.com/gabrielrsilva_8" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <
+ </div>
   
 ![Snake animation](https://github.com/GabrielSilva10ok/GabrielSilva10ok/blob/output/github-contribution-grid-snake.svg) 
